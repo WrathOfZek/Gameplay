@@ -1,10 +1,10 @@
 # Gameplay
 
-# Wrath Of Zek - Edge of War (Custom Classic Team PvP)
+# Wrath Of Zek - Edge of War (Custom Classic/Luclin Team PvP)
 
 War is brewing across the continents, skirmishes between deity factions are a daily occurrence and clandestine operations are commonplace. 
 
-Wrath Of Zek is a deity based PvP Server divided into a Evil, Neutral and Good team. The server is set in Classic EverQuest with a max level of 50. 
+Wrath Of Zek is a deity based PvP Server divided into a Evil, Neutral and Good team. The server is set in Classic EverQuest, with some elements from Luclin, with a max level of 50. 
 
 ## PvP
 
