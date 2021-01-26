@@ -8,11 +8,15 @@ Wrath Of Zek is a deity based PvP Server divided into a Evil, Neutral and Good t
 
 ## Teams
 
-Teams are based on Sullon Zek deity teams which restrict players from trading, grouping or guilding with other teams. Cross-teaming is not allowed and specific mechanics will be in place to try to restrict this. An trivial loot system based on threat generation and zone dominance will be implemented. Loot is also restricted to the team that killed the mob. 
+Teams are based on Sullon Zek deity teams which restrict players from trading, grouping or guilding with other teams. Cross-teaming is not allowed and specific mechanics will be in place to try to restrict this. Cross-teaming will be a bannable offense. 
+
+A trivial loot system based on threat generation and zone dominance will be implemented. Loot is also restricted to the team that killed the mob. 
+
+There will be an IP restriction based on accounts tied to their team. An account will only be allowed to have 1 character. 
 
 ### Team functionality
 
-- [ ] Enable trivial loot
+- [ ] Restrict characters
 - [X] Restrict looting
 - [x] Prevent grouping
 - [x] Prevent raiding
