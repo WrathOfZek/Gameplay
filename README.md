@@ -1,6 +1,6 @@
 # Gameplay
 
-# Wrath Of Zek - Edge of War (Custom Classic/Luclin Team PvP)
+# Wrath Of Zek - Edge of War (Custom Luclin Team PvP)
 
 War is brewing across the continents, skirmishes between deity factions are a daily occurrence and clandestine operations are commonplace. 
 
@@ -8,15 +8,19 @@ Wrath Of Zek is a deity based PvP Server divided into a Evil, Neutral and Good t
 
 ## Teams
 
-Teams are based on Sullon Zek deity teams which restrict players from trading, grouping or guilding with other teams. 
+Teams are based on Sullon Zek deity teams which restrict players from trading, grouping or guilding with other teams. Cross-teaming is not allowed and specific mechanics will be in place to try to restrict this. An trivial loot system based on threat generation and zone dominance will be implemented. Loot is also restricted to the team that killed the mob. 
 
-Teams are now restricted from grouping, guilding, raiding and trading between eachother. 
+### Team functionality
 
-Items are no longer droppable on the ground. 
+- [ ] Enable trivial loot
+- [X] Restrict looting
+- [x] Prevent grouping
+- [x] Prevent raiding
+- [x] Prevent trading
 
-PvE kills are flagged to the specific team that killed it.
+### Team progress
 
-Left to do is to prevent transfer through mobs. 
+![80%](https://progress-bar.dev/4/?scale=5&)
 
 ## PvP
 
