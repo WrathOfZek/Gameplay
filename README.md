@@ -17,7 +17,7 @@ There will be an IP restriction based on accounts tied to their team. An account
 ### Team functionality
 
 - [ ] Restrict characters
-- [X] Restrict looting
+- [x] Restrict looting
 - [x] Prevent grouping
 - [x] Prevent raiding
 - [x] Prevent trading
@@ -28,10 +28,24 @@ There will be an IP restriction based on accounts tied to their team. An account
 
 ## PvP
 
-The server is a no level limit PvP environment with a PvP ladder to encourage fair play available in-game through PvP Stats Windows and Leaderboard. PvP is not restricted to the team divide.
+The server is a no level limit PvP environment with a PvP ladder to encourage fair play available in-game through PvP Stats Windows and Leaderboard. PvP is not restricted to the team divide but killing your own teammates will cost you PvP Points same as for griefing lower level players. 
+
+The basis for the PvP points system can be found in the link below. The same goes for some of the balancing we will implement.
+
+https://www.everquest.com/news/imported-eq-enus-63142
+
+### PvP functionality
+
+- [x] Enable PvP
+- [ ] PvP Balance
+- [ ] PvP Leaderboard
+- [ ] PvP Merchant
+- [x] PvP Points
+
+### PvP progress
+
+![40%](https://progress-bar.dev/40/?scale=100&)
 
 ## PvE 
 
 Alternate Advancement Points, Disciplines and Leadership Points will be available to enhance gameplay. Content will be mostly original classical with some added items added through or moved to PvP vendors.  
-
-
