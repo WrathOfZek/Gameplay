@@ -20,7 +20,7 @@ Teams are based on Sullon Zek deity teams which restrict players from trading, g
 
 ### Team progress
 
-![80%](https://progress-bar.dev/4/?scale=5&)
+![80%](https://progress-bar.dev/80/?scale=100&)
 
 ## PvP
 
