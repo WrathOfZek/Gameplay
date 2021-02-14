@@ -39,12 +39,12 @@ https://www.everquest.com/news/imported-eq-enus-63142
 - [x] Enable PvP
 - [ ] PvP Balance
 - [X] PvP Leaderboard
-- [ ] PvP Merchant
+- [X] PvP Merchant
 - [x] PvP Points
 
 ### PvP progress
 
-![40%](https://progress-bar.dev/60/?scale=100&)
+![40%](https://progress-bar.dev/80/?scale=100&)
 
 ## PvE 
 
