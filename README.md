@@ -1,6 +1,6 @@
 # Gameplay
 
-# Wrath Of Zek - Edge of War (Custom Luclin Team PvP)
+# Wrath Of Zek - Edge of War (Custom Team PvP)
 
 War is brewing across the continents, skirmishes between deity factions are a daily occurrence and clandestine operations are commonplace. 
 
