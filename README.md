@@ -50,6 +50,12 @@ https://www.everquest.com/news/imported-eq-enus-63142
 
 Alternate Advancement Points, Disciplines and Leadership Points will be available to enhance gameplay. Content will be mostly original classical with some added items added through or moved to PvP vendors. 
 
+## Contact
+
+- [x] Email: webmaster@wrathofzek.com
+- [ ] Website: www.wrathofzek.com
+- [ ] Discord: 
+
 ## Infrastructure & Marketing
 
 ### Todo
