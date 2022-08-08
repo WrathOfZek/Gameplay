@@ -4,7 +4,7 @@ Here we are listing our class specific fixes.
 
 ## Melee classes
 
-1. Gain Resistant Discipline from level 4. Grants +4 to all Resistances increasing to +50 at 50th level.
+1. Gain Resistant Discipline from level 20. Grants +20 to all Resistances increasing to +50 at 50th level.
 
 ### Warriors
 
