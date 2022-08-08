@@ -14,8 +14,8 @@ Here we are listing our class specific fixes.
 
 ### Rogues
 
-1. Sneak & Hide ability is improved
-
+1. Sneak & Hide ability is improved.
+2. Poison can be applied to throwing items.  
 
 ## Hybrid classes
 
