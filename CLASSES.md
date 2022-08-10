@@ -5,6 +5,7 @@ Here we are listing our class specific fixes.
 ## Melee classes
 
 1. Gain Resistant Discipline from level 20. Grants +20 to all Resistances increasing to +50 at 50th level.
+2. Gain Fearless Discipline from level 30. Grants 11s immunity to Fear increasing to 30s at 50th level.
 
 ### Warriors
 
